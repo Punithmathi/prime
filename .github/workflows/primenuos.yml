@@ -26,5 +26,5 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v3
       with:
-        name: puni
-        path: puni.xlsx
+        name: Primenumbers
+        path: Primenumbers.xlsx
