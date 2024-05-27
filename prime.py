@@ -1,5 +1,5 @@
 import xlsxwriter
-wb = xlsxwriter.Workbook(r'C:\Users\p.mudanmozhivalavan.DIR\OneDrive - Accenture\Documents\Python Scripts\Puni.xlsx')
+wb = xlsxwriter.Workbook(r'C:\Users\p.mudanmozhivalavan.DIR\OneDrive - Accenture\Documents\Python Scripts\Primenumbers.xlsx')
 ws=wb.add_worksheet("prime number")
 lower = 900
 upper = 1000
