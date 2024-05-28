@@ -16,4 +16,4 @@ jobs:
         python-version: '3.x'
  
     - name: Run Python script
-      run: python prime.py
+      run: python practicepy.py
