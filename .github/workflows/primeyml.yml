@@ -1,4 +1,4 @@
-name: Generate Prime Numbers Excel
+name: Prime Numbers
  
 on: [push]
  
