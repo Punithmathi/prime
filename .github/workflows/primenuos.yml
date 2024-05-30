@@ -27,4 +27,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: Primenumbers
-        path: r'C:\Users\p.mudanmozhivalavan.DIR\OneDrive - Accenture\Documents\Python Scripts\Primenumbers.xlsx'
+        path: Primenumbers.xlsx
